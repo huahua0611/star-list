@@ -13,7 +13,7 @@ This repository is used to collect other interesting repositories.
   echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
 ```
 
-## Http/Https
+## HTTP/HTTPS
 
 [axios](https://github.com/axios/axios) -- Promise based HTTP client for the browser and node.js.
 
@@ -31,6 +31,6 @@ This repository is used to collect other interesting repositories.
 
 [you-dont-know-js](https://github.com/getify/You-Dont-Know-JS) -- A book series on JavaScript.
 
-## open source
+## Open Source
 
 [gold-miner](https://github.com/xitu/gold-miner) -- 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
