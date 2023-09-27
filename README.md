@@ -2,9 +2,15 @@
 
 This repository is used to collect other interesting repositories.
 
+## Bot
+
+[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) -- ChatGPT for wechat.
+
+[wechaty](https://github.com/wechaty/wechaty) -- weChat Bot.
+
 ## Git
 
-[commitizen/cz-cli](https://github.com/commitizen/cz-cli) -- The commitizen command line utility
+[commitizen/cz-cli](https://github.com/commitizen/cz-cli) -- The commitizen command line utility.
 
 ```bash
   # quick set up
